@@ -1,5 +1,7 @@
 # Multiply Polynomial Expression
 
+check.py is used to test my python code.
+
 Representing Polynomial Expressions:
 In this project, I will represent a given polynomial expression by a 'Term' class and a 'PolynomialExpression' class. From a high level, I will first represent each term in the expression as a 'Term' object, and then store all 'Term' objects in a list (terms variable) in a 'PolynomialExpression' object.
 1. Constructing a 'Term' Object:
